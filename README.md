@@ -10,13 +10,13 @@ Dedicated Data Scientist seeking to apply advanced analytical and machine learni
 
 ### Explore my projects
 
-|Sr No.| Domain |
-|------|---------------|
-|01| [Data Analysis](https://github.com/abhijeetk597/bi-dashboards) |
-|02| [Machine Learning](https://github.com/abhijeetk597/machine-learning-projects) |
-|03| [Deep Learning CV](https://github.com/abhijeetk597/project-dog-vision) |
-|04| [Natural Language Processing](https://github.com/abhijeetk597/NLP-Projects)|
-|05| [LLM / Langchain](https://github.com/abhijeetk597/LLM-Projects) |
+|Sr No.| Domain | No.|
+|------|---------------|--|
+|01| [Data Analysis](https://github.com/abhijeetk597/bi-dashboards) |2|
+|02| [Machine Learning](https://github.com/abhijeetk597/machine-learning-projects) |1|
+|03| [Deep Learning CV](https://github.com/abhijeetk597/project-dog-vision) |1|
+|04| [Natural Language Processing](https://github.com/abhijeetk597/NLP-Projects)|1|
+|05| [LLM / Langchain](https://github.com/abhijeetk597/LLM-Projects) |0|
 
 ## My Github Stats
 
