@@ -4,9 +4,13 @@ Pursuing 'Ikigai' ✨ | Data Scientist | Freelancer | Ex SBI Officer
 
 Dedicated Data Scientist seeking to apply advanced analytical and machine learning skills in an innovative environment. Committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Proactively learning advanced skills in Deep Learning, Gen AI & ML-Ops.
 
-🔭 I’m currently upskilling myself and looking for opportunities as Data Scientist/ ML Engineer.
+- 🔭 I’m currently upskilling myself and looking for opportunities as Data Scientist/ ML Engineer.
 
-🌱 I am transitioning from Banking Industry and earlier, I have worked for the State Bank of India as an Assistant Manager.
+- 🌱 I am transitioning from Banking Industry and earlier, I have worked for the State Bank of India as an Assistant Manager.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeetk597/)
+
+- ⚡ Visit my PortFolio Website [here](https://abhijeetk597.github.io/project-portfolio.io/)
 
 ### Explore my projects
 
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+ ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
