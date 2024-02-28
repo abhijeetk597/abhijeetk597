@@ -2,7 +2,7 @@
 
 Pursuing 'Ikigai' ✨
 
-I am a Dedicated Data Scientist seeking to apply advanced analytical and machine learning skills in an innovative environment. Committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Also I am diving deeper into Deep Learning, Gen AI & ML-Ops 🌊.
+I am a dedicated Data Scientist seeking to apply advanced analytical and machine learning skills in an innovative environment. Committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Also I am diving deeper into Deep Learning, Gen AI & ML-Ops 🌊.
 
 My Tech stack includes:-
 |||
@@ -24,7 +24,7 @@ My Tech stack includes:-
 
 ### Explore my projects
 
-||||
+|Sr.|Domain|No.|
 |------|---------------|--|
 |01| [Data Analysis](https://github.com/abhijeetk597/bi-dashboards) |2|
 |02| [Machine Learning](https://github.com/abhijeetk597/machine-learning-projects) |1|
