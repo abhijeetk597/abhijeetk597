@@ -20,9 +20,9 @@ Dedicated Data Scientist seeking to apply advanced analytical and machine learni
 
 ## My Github Stats
 
-|![Github Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetk597)|![Github Stats 1](https://github-readme-stats.vercel.app/api?username=abhijeetk597)|
+![Github Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetk597)
 
-![Github Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetk597)
+![Github Stats 1](https://github-readme-stats.vercel.app/api?username=abhijeetk597) ![Github Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetk597)
 
 
 
