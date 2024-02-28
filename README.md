@@ -10,7 +10,7 @@ Dedicated Data Scientist seeking to apply advanced analytical and machine learni
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeetk597/)
 
-- ⚡ Visit my PortFolio Website [here](https://abhijeetk597.github.io/project-portfolio.io/)
+- ⚡ Visit my [PortFolio Website](https://abhijeetk597.github.io/project-portfolio.io/)
 
 ### Explore my projects
 
