@@ -2,7 +2,7 @@
 
 Pursuing 'Ikigai' ✨ | Data Scientist | Freelancer | Ex SBI Officer
 
-Dedicated Data Scientist seeking to apply advanced analytical and machine learning skills in an innovative environment. Committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Proactively learning advanced skills in ML-Ops and Deep Learning.
+Dedicated Data Scientist seeking to apply advanced analytical and machine learning skills in an innovative environment. Committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Proactively learning advanced skills in Deep Learning, Gen AI & ML-Ops.
 
 🔭 I’m currently upskilling myself and looking for opportunities as Data Scientist/ ML Engineer.
 
