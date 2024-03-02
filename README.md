@@ -29,7 +29,7 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 |02| [Machine Learning](https://github.com/abhijeetk597/machine-learning-projects) |1|
 |03| [Deep Learning CV](https://github.com/abhijeetk597/project-dog-vision) |1|
 |04| [Natural Language Processing](https://github.com/abhijeetk597/NLP-Projects)|1|
-|05| [LLM / Langchain](https://github.com/abhijeetk597/LLM-Projects) |0|
+|05| [LLM / Langchain](https://github.com/abhijeetk597/LLM-Projects) |1|
 
 ## My Github Stats
 
