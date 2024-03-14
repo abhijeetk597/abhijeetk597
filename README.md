@@ -30,6 +30,7 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 |03| [Deep Learning CV](https://github.com/abhijeetk597/deep-learning-CV) |1|
 |04| [Natural Language Processing](https://github.com/abhijeetk597/NLP-Projects)|2|
 |05| [LLM / Langchain](https://github.com/abhijeetk597/LLM-Projects) |1|
+|06| [OCR / Backend Developement](https://github.com/abhijeetk597/medical-data-extraction)|1|
 
 ## My Github Stats
 
