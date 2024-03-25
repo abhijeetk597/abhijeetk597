@@ -19,7 +19,7 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 |Data Analysis: **Pandas, Power-BI**|Database: **MySQL**|
 |Machine Learning: **Numpy, Scikit-Learn**|Cloud: **AWS (EC2 & Sagemaker)**|
 |Deep Learning: **TensorFlow**|Office Tools: **Excel, PowerPoint**|
-|Web Framework: **Fast-API, StreamLit**||
+|Web Framework: **Fast-API, StreamLit**|MLOPs: **Mlflow, DVC**|
 
 ### Explore my projects
 
