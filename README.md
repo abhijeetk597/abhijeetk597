@@ -12,6 +12,8 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 - ⚡ Visit my [PortFolio Website](https://abhijeetk597.github.io/project-portfolio.io/)
 
+- 🐍 Check my [HackerRank Profile](https://www.hackerrank.com/profile/abhijeetk597)
+
 ### My Tech stack includes:-
 |||
 |--------------------------------|--------------------------------------|
