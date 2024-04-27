@@ -27,7 +27,7 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 |Sr.|Domain|No.|
 |------|---------------|--|
-|01| [Data Analysis (Python, SQL, PowerBi)](https://github.com/abhijeetk597/bi-dashboards) |5|
+|01| [Data Analysis (Python, SQL, PowerBi)](https://github.com/abhijeetk597/bi-dashboards) |6|
 |02| [Machine Learning](https://github.com/abhijeetk597/machine-learning-projects) |5|
 |03| [Computer Vision](https://github.com/abhijeetk597/deep-learning-CV) |2|
 |04| [Natural Language Processing](https://github.com/abhijeetk597/NLP-Projects)|3|
