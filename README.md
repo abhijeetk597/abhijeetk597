@@ -10,7 +10,7 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeetk597/)
 
-- ⚡ Visit my [PortFolio Website](https://abhijeetk597.github.io/project-portfolio.io/)
+- ⚡ Visit my [PortFolio Website](https://abhijeetk597.github.io)
 
 - 🐍 Check my [HackerRank Profile](https://www.hackerrank.com/profile/abhijeetk597)
 
