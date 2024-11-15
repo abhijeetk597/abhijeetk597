@@ -1,12 +1,30 @@
 ## Welcome to my GitHub Account 👋
 
-Pursuing 'Ikigai' ✨
+Pursuing 'Ikigai' ✨ | Python Developer @ Accenture | Ex-SBI Officer with 3.5 Years of Experience
 
-I am a dedicated Data Scientist seeking to apply advanced analytical and machine learning skills in an innovative environment. Committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Also I am diving deeper into Deep Learning, Gen AI & ML-Ops 🌊.
+Passionate about leveraging data and AI to drive impactful solutions. Currently, I’m working at 𝑨𝒄𝒄𝒆𝒏𝒕𝒖𝒓𝒆, applying my skills to develop AI-driven applications.
 
-- 🔭 I’m currently upskilling myself and looking for opportunities as Data Scientist/ ML Engineer or Data Analyst.
+🚀 Key Skills:
+• GenAI / LLMs
+• Python: Development, data analysis, and visualization
+• SQL: Strong command for data querying and manipulation
+• Machine Learning: Proficient in Scikit-Learn, TensorFlow, and PyTorch for ML and deep learning
+• Power BI & Excel: Expertise in crafting Power BI dashboards and advanced data manipulation in Excel
 
-- 🌱 I am transitioning from Banking Industry and earlier, I have worked for the State Bank of India as an Assistant Manager. For 3 years I contributed to our Regional Analytics team to generate business leads and helped imrove the conversion rate.
+🔍 Experience Highlights:
+• State Bank of India: Started as a Probationary Officer, achieving success in one of India’s toughest exams.
+  - Leveraged my tech skills for business conversion
+• Project Portfolio: Built 20+ Data Science and ML projects as personal POCs, available on my GitHub.
+
+📚 Continuous Learner
+I’m committed to staying updated with emerging technologies and tools. Excited to embrace new challenges and continuously enhance my analytical capabilities.
+
+🎯 Current Focus:
+• MLOps
+• Azure Certifications
+• JavaScript for Backend Development
+
+📌 Connect with me for opportunities to discuss data, AI, and cutting-edge tech!
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeetk597/)
 
