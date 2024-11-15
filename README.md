@@ -5,24 +5,24 @@ Pursuing 'Ikigai' ✨ | Python Developer @ Accenture | Ex-SBI Officer with 3.5 Y
 Passionate about leveraging data and AI to drive impactful solutions. Currently, I’m working at 𝑨𝒄𝒄𝒆𝒏𝒕𝒖𝒓𝒆, applying my skills to develop AI-driven applications.
 
 🚀 Key Skills:
-• GenAI / LLMs
-• Python: Development, data analysis, and visualization
-• SQL: Strong command for data querying and manipulation
-• Machine Learning: Proficient in Scikit-Learn, TensorFlow, and PyTorch for ML and deep learning
-• Power BI & Excel: Expertise in crafting Power BI dashboards and advanced data manipulation in Excel
+- GenAI / LLMs
+- Python: Development, data analysis, and visualization
+- SQL: Strong command for data querying and manipulation
+- Machine Learning: Proficient in Scikit-Learn, TensorFlow, and PyTorch for ML and deep learning
+- Power BI & Excel: Expertise in crafting Power BI dashboards and advanced data manipulation in Excel
 
 🔍 Experience Highlights:
-• State Bank of India: Started as a Probationary Officer, achieving success in one of India’s toughest exams.
+- State Bank of India: Started as a Probationary Officer, achieving success in one of India’s toughest exams.
   - Leveraged my tech skills for business conversion
-• Project Portfolio: Built 20+ Data Science and ML projects as personal POCs, available on my GitHub.
+- Project Portfolio: Built 20+ Data Science and ML projects as personal POCs, available on my GitHub.
 
 📚 Continuous Learner
 I’m committed to staying updated with emerging technologies and tools. Excited to embrace new challenges and continuously enhance my analytical capabilities.
 
 🎯 Current Focus:
-• MLOps
-• Azure Certifications
-• JavaScript for Backend Development
+- MLOps
+- Azure Certifications
+- JavaScript for Backend Development
 
 📌 Connect with me for opportunities to discuss data, AI, and cutting-edge tech!
 
